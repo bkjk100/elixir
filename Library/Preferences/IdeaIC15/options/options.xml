@@ -1,0 +1,15 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="installed.kotlin.plugin.version" value="1.0.0-beta-2428-IJ143-18" />
+    <property name="installation.uid" value="1f6fa7c8-68a8-4ce9-931a-5aeb8d6e9a1a" />
+    <property name="android-component-compatibility-check" value="1450387942097" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="file.chooser.recent.files" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="lastTip" value="13" />
+  </component>
+</application>
